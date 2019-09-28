@@ -15,5 +15,22 @@
                 "amplifytodo8914a9b5": {}
             }
         }
+    },
+    "develop": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-todo-develop-20190927173726-authRole",
+            "UnauthRoleArn": "arn:aws:iam::033205456844:role/amplify-todo-develop-20190927173726-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::033205456844:role/amplify-todo-develop-20190927173726-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-todo-develop-20190927173726-deployment",
+            "UnauthRoleName": "amplify-todo-develop-20190927173726-unauthRole",
+            "StackName": "amplify-todo-develop-20190927173726",
+            "StackId": "arn:aws:cloudformation:us-west-2:033205456844:stack/amplify-todo-develop-20190927173726/24f0e640-e188-11e9-aa64-0aa1d8d9d478"
+        },
+        "categories": {
+            "auth": {
+                "amplifytodo8914a9b5": {}
+            }
+        }
     }
 }
